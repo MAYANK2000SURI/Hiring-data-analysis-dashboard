@@ -1,5 +1,5 @@
 # PROJECT OBJECTIVE:-
-##The objective of this project is to develop a Power BI dashboard that provides a detailed analysis of the recruitment lifecycle. By visualizing key hiring metrics such as application status, salary distributions, department performance, and position trends, the dashboard aims to:
+The objective of this project is to develop a Power BI dashboard that provides a detailed analysis of the recruitment lifecycle. By visualizing key hiring metrics such as application status, salary distributions, department performance, and position trends, the dashboard aims to:
 	1.	Enhance Recruitment Efficiency:
 	•	Identify bottlenecks in the hiring process and improve resource allocation.
 	2.	Support Data-Driven Decision-Making:
